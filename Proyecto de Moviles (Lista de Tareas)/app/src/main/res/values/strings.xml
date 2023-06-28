@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Lista de tareas :D</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Fragmento en blanco</string>
+    <string name="place_holder">Lugar del Holder</string>
+    <string name="checkbox">CheckBox</string>
+</resources>
